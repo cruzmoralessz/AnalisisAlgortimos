@@ -1,2 +1,11 @@
-# AnalisisAlgortimos
-Trabajos, tareas, ejercicios y prácticas de la materia Análisis de Algoritmos - 5to semestre
+# Análisis de Algoritmos
+
+Repositorio para almacenar trabajos, tareas, prácticas,
+ejercicios y proyectos de la materia Análisis de Algoritmos.
+
+## Contenido
+
+- Cuadernos de Google Colab
+- Ejercicios de programación
+- Prácticas
+- Proyectos
